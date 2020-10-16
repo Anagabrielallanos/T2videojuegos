@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ANA\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ANA\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_T2-Videojuegos-SuarezGutierrezDiego.-586906609.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ANA\Desktop\T2-Videojuegos-SuarezGutierrezDiego" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BalaMovimiento.cs" t="Include" />
+          <e p="CamaraControlller.cs" t="Include" />
+          <e p="NinjaController.cs" t="Include" />
+          <e p="Zombie2Controller.cs" t="Include" />
+          <e p="ZombieController.cs" t="Include" />
+          <e p="ZombieSpawner.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="T2-Videojuegos-SuarezGutierrezDiego.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
